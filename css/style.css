@@ -4,14 +4,15 @@
 } 
 
 .homesocial {
-float: right; 
-
+  float: right; 
 }
 
 .textinfo {
-
   color: #403F45;
   font-size: 1em;
   line-height: 22px;
 }
+
+.about-content h4, h5, h6 {
+	font-weight: bold;
 }
