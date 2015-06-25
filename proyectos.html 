@@ -1,0 +1,60 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Foundation | Welcome</title>
+  <link rel="stylesheet" href="css/foundation.css" />
+  <link rel="stylesheet" href="css/style.css" /> 
+
+  <script src="js/vendor/modernizr.js"></script>
+</head>
+<body>
+
+  <div class="row">
+    <div class="large-3 columns">
+      <h1><img src="/img/Logo.jpg"/></h1>
+    </div>
+    <div class="large-9 columns">
+      <ul class="header-links inline-list">
+        <li><a href="#">Inicio </a></li>
+        <li><a href="#">Quienes Somos</a></li>
+        <li><a href="proyectos">Proyectos </a></li> 
+        <li><a href="contacto">Contacto</a></li>
+        <li><a href="#">Donaciones</a></li> 
+      </ul>
+    </div>
+  </div>
+
+
+        
+
+            <p class="textinfo">
+              <br>Casa de la Memoria
+              <br>Calle 45 # 22.55 
+              <br>casadelamemoriasatamarta@gmail.com 
+              <br>Teléfono: (57) (4) 383 40 01
+              <br>Santa Marta  - Colombia </p>
+          </p>
+        </div>
+        <div class="large-6 columns">
+          <ul class="homesocial">
+            <img src="/img/twitter.png">
+            <img src="/img/facebook.png">
+            <img src="/img/mail.png">
+          </ul>
+        </div>
+      </div>
+    </div> 
+  </footer>
+
+  <script type="text/javascript" src="/js/vendor/jquery.js"></script>
+  <script type="text/javascript" src="/js/foundation.min.js"></script>
+
+  <script>
+  $(document).foundation();
+  </script>
+
+</body>
+</html>
+
